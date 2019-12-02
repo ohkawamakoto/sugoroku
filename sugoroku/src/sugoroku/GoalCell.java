@@ -1,6 +1,6 @@
 package sugoroku;
 /**
- * ゴールしたマス
+ * ゴールしたマスdayo
  * @author ohkawa
  *
  */
